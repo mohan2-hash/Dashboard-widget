@@ -1,4 +1,4 @@
-# AccuKnox-Assigment-For-Frontend-Trainees
+# Dashboard-widget-AccuKnox-Assigment-For-Frontend-Trainees
 
 # Dynamic Dashboard
 
@@ -18,7 +18,7 @@ You can find the source code on GitHub.
 
 1. **Clone the Repo:**
    ```bash
-   git clone https://github.com/mohan2-hash/dashboard-widget.git
+   git clone https://github.com/mohan2-hash/dashboard-widget-AccuKnox-assignment-for-frontend-trainees.git
 
 2. **Install Dependencies::**
    ```bash
